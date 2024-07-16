@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sticker-guide/static/css/main.f855e6bc.css",
+    "main.js": "/sticker-guide/static/js/main.8c83441d.js",
+    "static/js/453.040a5a85.chunk.js": "/sticker-guide/static/js/453.040a5a85.chunk.js",
+    "index.html": "/sticker-guide/index.html",
+    "main.f855e6bc.css.map": "/sticker-guide/static/css/main.f855e6bc.css.map",
+    "main.8c83441d.js.map": "/sticker-guide/static/js/main.8c83441d.js.map",
+    "453.040a5a85.chunk.js.map": "/sticker-guide/static/js/453.040a5a85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8c83441d.js"
+  ]
+}
